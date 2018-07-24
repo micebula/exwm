@@ -16,6 +16,5 @@ to get an overview of what EXWM is capable of,
 and the [user guide](https://github.com/ch11ng/exwm/wiki)
 for a detailed explanation of its usage.
 
-
 **Note**: If you install EXWM from source, it's recommended to install
 XELB also from source (otherwise install both from GNU ELPA).
